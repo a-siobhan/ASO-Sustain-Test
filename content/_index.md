@@ -2,19 +2,18 @@
 {}
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+I'm **A. Siobhan Oberg**, a Biologist and Data Scientist.
 
-I love all things computer science and maths.
+I enjoy finding data driven solutions to complex questions.
 
-Have a look at some of my working [projects].
+This is a blog to showcase some of my current and previous [projects].
 
-For more check out my academic & professional [resume].
+For more check out my [resume].
 
-Contact me at [@username] or by [email].
+Contact me via [email].
 
 
 
 [projects]: /projects
 [resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[email]: mailto:aso35170@gmail.com
