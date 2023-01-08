@@ -2,7 +2,7 @@ name: Projects
 source:
   - icon: fa fa-globe
     name: Salem Trees
-    description: A map of the trees managed by the city of Salem, focussing on the Oregon white oaks and other native species.
+    description: A map of the trees managed by the city of Salem, focusing on the Oregon white oaks and other native species.
     url: https://github.com/nurlansu/hugo-sustain
 
   - icon: fa fa-cog
