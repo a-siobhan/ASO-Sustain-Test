@@ -7,7 +7,7 @@ theme: hugo-sustain
 permalinks:
   post: /:year/:month/:day/:slug
 params:
-  author: Chris Turner
+  author: Siobhan Oberg
   avatar: img/SioprofileResize.png
   custom_css: []
   custom_js: []
