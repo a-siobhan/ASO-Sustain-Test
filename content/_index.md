@@ -15,5 +15,5 @@ Contact me via [email].
 
 
 [projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
+[resume]: https://siobhan-oberg-data-science.netlify.app/resume/
 [email]: mailto:aso35170@gmail.com
