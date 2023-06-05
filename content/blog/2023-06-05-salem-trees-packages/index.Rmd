@@ -1,0 +1,30 @@
+---
+title: Salem Trees Packages
+author: Siobhan Oberg
+date: '2023-06-05'
+slug: salem-trees-packages
+categories:
+  - projects
+  - R
+tags: []
+description: ''
+---
+Here is a list of the packages I had to install to run my code for my capstone project.
+```{r}
+install.packages("readr")
+install.packages("tidyverse")
+install.packages("dplyr")
+install.packages("assertive")
+install.packages("stringr")
+install.packages("lubridate")
+install.packages("VIM")
+install.packages("maps")
+install.packages("ggmap")
+install.packages("ggplot2")  
+install.packages("rgdal")  
+install.packages("raster")
+install.packages("sf")
+install.packages("leaflet")
+install.packages("rmarkdown")
+```
+

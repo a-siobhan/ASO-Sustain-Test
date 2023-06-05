@@ -8,9 +8,9 @@ I enjoy finding data driven solutions to complex questions.
 
 This is a blog to showcase some of my current and previous [projects].
 
-Contact me via [email].
+If you'd like to connect, contact me via [email].
 
 
 
 [projects]: /projects
-[email]: mailto:aso35170@gmail.com
+[email]: mailto:siobhanoberg@gmail.com
