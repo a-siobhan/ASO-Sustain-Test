@@ -6,7 +6,7 @@ source:
     url: https://github.com/nurlansu/hugo-sustain
 
   - icon: fa fa-cog
-    name: Pyhton Content Aggregator
+    name: Python Content Aggregator
     description: A work in progress.
     url: https://github.com/nurlansu/hugo-sustain
 
@@ -16,7 +16,7 @@ source:
     url: https://github.com/nurlansu/hugo-sustain
 
   - icon: fa fa-cog
-    name: Pyhton Soduko Solver
+    name: Python Soduko Solver
     description: A work in progress.
     url: https://github.com/nurlansu/hugo-sustain
 
