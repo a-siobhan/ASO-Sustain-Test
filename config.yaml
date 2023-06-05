@@ -22,7 +22,4 @@ menu:
       name: projects
       url: /projects/
       weight: 100
-    - identifier: resume
-      name: resume
-      url: /resume/
-      weight: 200
+ 
