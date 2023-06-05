@@ -10,7 +10,8 @@ tags: []
 description: ''
 ---
 Here is a list of the packages I had to install to run my code for my capstone project.
-```{r}
+
+```{r echo=TRUE}
 install.packages("readr")
 install.packages("tidyverse")
 install.packages("dplyr")
@@ -26,5 +27,6 @@ install.packages("raster")
 install.packages("sf")
 install.packages("leaflet")
 install.packages("rmarkdown")
+install.packages("Rtools")
 ```
 
